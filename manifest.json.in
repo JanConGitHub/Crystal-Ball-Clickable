@@ -1,0 +1,15 @@
+{
+    "name": "crystalball.arc676",
+    "description": "Randomly answers yes/no questions",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Crystal Ball",
+    "hooks": {
+        "crystalball": {
+            "apparmor": "crystalball.apparmor",
+            "desktop":  "crystalball.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
