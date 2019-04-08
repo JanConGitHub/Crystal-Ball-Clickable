@@ -1,6 +1,6 @@
 [Desktop Entry]
 _Name=Crystal Ball
-Exec=qmlscene qml/Main.qml
+Exec=qmlscene qml/Loader.qml
 Icon=assets/logo.png
 Terminal=false
 Type=Application

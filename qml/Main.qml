@@ -16,11 +16,9 @@ import QtQuick 2.4
 import QtQuick.Layouts 1.1
 import Ubuntu.Components 1.3
 
-MainView {
-	id: root
-	objectName: 'mainView'
-	applicationName: 'crystalball.arc676'
-	automaticOrientation: true
+Page {
+	id: mainView
+	header: DefaultHeader {}
 
 	width: units.gu(45)
 	height: units.gu(75)
@@ -138,7 +136,7 @@ MainView {
 		Button {
 			id: clearButton
 			anchors {
-				bottom: aboutButton.top
+				bottom: parent.bottom
 				bottomMargin: margin
 				leftMargin: margin
 				rightMargin: margin
@@ -149,19 +147,6 @@ MainView {
 			onClicked: {
 				transcript.text = i18n.tr('Crystal Ball Transcript')
 			}
-		}
-
-		Button {
-			id: aboutButton
-			anchors {
-				bottom: parent.bottom
-				bottomMargin: margin
-				leftMargin: margin
-				rightMargin: margin
-				horizontalCenter: parent.horizontalCenter
-			}
-			width: parent.width - 2 * margin
-			text: i18n.tr('About Crystal Ball')
 		}
 	}
 }
