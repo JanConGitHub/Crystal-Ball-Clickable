@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crystalball.arc676\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-08 15:57+0000\n"
+"POT-Creation-Date: 2019-04-08 16:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,74 +17,74 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/Main.qml:18
+#: ../qml/Main.qml:34
 msgid "Yes"
 msgstr ""
 
-#: ../qml/Main.qml:20
+#: ../qml/Main.qml:36
 msgid "No"
 msgstr ""
 
-#: ../qml/Main.qml:22
+#: ../qml/Main.qml:38
 msgid "Maybe"
 msgstr ""
 
-#: ../qml/Main.qml:24
+#: ../qml/Main.qml:40
 msgid "Try asking again later"
 msgstr ""
 
-#: ../qml/Main.qml:26
+#: ../qml/Main.qml:42
 msgid "Definitely"
 msgstr ""
 
-#: ../qml/Main.qml:28
+#: ../qml/Main.qml:44
 msgid "Of course not"
 msgstr ""
 
-#: ../qml/Main.qml:30
+#: ../qml/Main.qml:46
 msgid "Sure"
 msgstr ""
 
-#: ../qml/Main.qml:32
+#: ../qml/Main.qml:48
 msgid "Nope"
 msgstr ""
 
-#: ../qml/Main.qml:34
+#: ../qml/Main.qml:50
 msgid "Why not?"
 msgstr ""
 
-#: ../qml/Main.qml:36
+#: ../qml/Main.qml:52
 msgid "I wouldn't bet on it"
 msgstr ""
 
-#: ../qml/Main.qml:38
+#: ../qml/Main.qml:54
 msgid "You bet!"
 msgstr ""
 
-#: ../qml/Main.qml:40
+#: ../qml/Main.qml:56
 msgid "Don't hold your breath"
 msgstr ""
 
-#: ../qml/Main.qml:49 crystalball.desktop.in.h:1
+#: ../qml/Main.qml:65 crystalball.desktop.in.h:1
 msgid "Crystal Ball"
 msgstr ""
 
-#: ../qml/Main.qml:58
+#: ../qml/Main.qml:76
 msgid "Enter yes/no question"
 msgstr ""
 
-#: ../qml/Main.qml:76
+#: ../qml/Main.qml:99
 msgid "Ask question"
 msgstr ""
 
-#: ../qml/Main.qml:100 ../qml/Main.qml:120
+#: ../qml/Main.qml:125 ../qml/Main.qml:147
 msgid "Crystal Ball Transcript"
 msgstr ""
 
-#: ../qml/Main.qml:117
+#: ../qml/Main.qml:145
 msgid "Clear Transcript"
 msgstr ""
 
-#: ../qml/Main.qml:130
+#: ../qml/Main.qml:160
 msgid "About Crystal Ball"
 msgstr ""
