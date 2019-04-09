@@ -20,10 +20,7 @@ Page {
 	id: mainView
 	header: DefaultHeader {}
 
-	width: units.gu(45)
-	height: units.gu(75)
-
-	property real margin: units.gu(2)
+	anchors.fill: parent
 
 	function getAnswer() {
 		var index = parseInt(Math.random() * 12)

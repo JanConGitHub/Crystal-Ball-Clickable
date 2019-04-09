@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Italian translation for Crystal Ball
+# Copyright (C) 2019 Arc676/Alessandro Vinciguerra
 # This file is distributed under the same license as the crystalball.arc676 package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>, 2019
 #
 #, fuzzy
 msgid ""
@@ -9,24 +9,26 @@ msgstr ""
 "Project-Id-Version: crystalball.arc676\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-08 17:14+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-04-09 08:06+0002\n"
+"Last-Translator: Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=utf8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../qml/AboutView.qml:40
 msgid "written by Arc676/Alessandro Vinciguerra. Project available under"
-msgstr ""
+msgstr "programmazione fatto da Arc676/Alessandro Vinciguerra. Progetto disponibile secondo le condizioni di"
 
 #: ../qml/AboutView.qml:44
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
 "Software Foundation (version 3)."
-msgstr ""
+msgstr "Questo programma è software libero: può ridistribuirlo e/o modificarlo "
+"seguendo le condizioni della GNU General Public License pubblicata dalla Free "
+"Software Foundation (versione 3)."
 
 #: ../qml/AboutView.qml:48
 msgid ""
@@ -34,93 +36,98 @@ msgid ""
 "ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
 "FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
 "more details."
-msgstr ""
+msgstr "Questo programma è distribuito con la speranza che possa essere utile, ma SENZA "
+"ALCUNA garanzie; neanche la garanzia implicita di COMMERCIABILITÀ o "
+"di essere ADEGUATO PER UNO SCOPO PARTICOLARE. Consultare la GNU General Public License "
+"per ulteriori dettagli."
 
 #: ../qml/AboutView.qml:52
 msgid ""
 "For the full license text, visit the <a href='https://github.com/Arc676/"
 "Crystal-Ball-Clickable'>repository</a> or the <a href='http://www.gnu.org/"
 "licenses/'>GNU licenses page</a>"
-msgstr ""
+msgstr "Per il testo completo della licenza visita la pagina del <a href='https://github.com/Arc676/"
+"Crystal-Ball-Clickable'>ripostiglio</a> o la <a href='http://www.gnu.org/"
+"licenses/'>pagina licenze della GNU</a>"
 
 #: ../qml/AboutView.qml:56
 msgid "%1 assets"
-msgstr ""
+msgstr "Risorse %1"
 
 #: ../qml/AboutView.qml:61
 msgid ""
 "Application icon by <a href='http://www.freepik.com'>Freepik</a> from <a "
 "href='http://www.flaticon.com'>flaticon.com</a>"
-msgstr ""
+msgstr "Icona applicazione da <a href='http://www.freepik.com'>Freepik</a>"
 
 #: ../qml/DefaultHeader.qml:20 ../qml/Main.qml:60 crystalball.desktop.in.h:1
 msgid "Crystal Ball"
-msgstr ""
+msgstr "Crystal Ball"
 
 #: ../qml/DefaultHeader.qml:27
 msgid "About Crystal Ball"
-msgstr ""
+msgstr "Riguardo Crystal Ball"
 
 #: ../qml/Main.qml:29
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: ../qml/Main.qml:31
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: ../qml/Main.qml:33
 msgid "Maybe"
-msgstr ""
+msgstr "Forse"
 
 #: ../qml/Main.qml:35
 msgid "Try asking again later"
-msgstr ""
+msgstr "Prova a chiedere più tardi"
 
 #: ../qml/Main.qml:37
 msgid "Definitely"
-msgstr ""
+msgstr "Certamante"
 
 #: ../qml/Main.qml:39
 msgid "Of course not"
-msgstr ""
+msgstr "Certo che no"
 
 #: ../qml/Main.qml:41
 msgid "Sure"
-msgstr ""
+msgstr "Sicuramente"
 
 #: ../qml/Main.qml:43
 msgid "Nope"
-msgstr ""
+msgstr "Direi proprio di no"
 
 #: ../qml/Main.qml:45
 msgid "Why not?"
-msgstr ""
+msgstr "Perché no?"
 
 #: ../qml/Main.qml:47
 msgid "I wouldn't bet on it"
-msgstr ""
+msgstr "Non ci scommetterei"
 
 #: ../qml/Main.qml:49
 msgid "You bet!"
-msgstr ""
+msgstr "Ci può scommettere"
 
 #: ../qml/Main.qml:51
 msgid "Don't hold your breath"
-msgstr ""
+msgstr "Lo dubito"
 
 #: ../qml/Main.qml:71
 msgid "Enter yes/no question"
-msgstr ""
+msgstr "Digitare la domanda si/no"
 
 #: ../qml/Main.qml:96
 msgid "Ask question"
-msgstr ""
+msgstr "Fare la domanda"
 
 #: ../qml/Main.qml:122 ../qml/Main.qml:145
 msgid "Crystal Ball Transcript"
-msgstr ""
+msgstr "Trascrizione Crystal Ball"
 
 #: ../qml/Main.qml:143
 msgid "Clear Transcript"
-msgstr ""
+msgstr "Cancellare Trascrizione"
