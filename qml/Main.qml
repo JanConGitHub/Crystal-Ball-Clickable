@@ -95,9 +95,7 @@ Page {
 			width: parent.width - 2 * margin
 			text: i18n.tr('Ask question')
 			onClicked: {
-				var text = transcript.text
-				text += "\nQ: " + questionField.text + "\nA: " + getAnswer()
-				transcript.text = text
+				transcript.append("Q: " + questionField.text + "\nA: " + getAnswer())
 				questionField.text = ""
 			}
 		}
@@ -119,14 +117,9 @@ Page {
 			TextArea {
 				id: transcript
 				readOnly: true
-				text: i18n.tr('Crystal Ball Transcript')
 				anchors.fill: parent
+				text: i18n.tr('Crystal Ball Transcript')
 				wrapMode: Text.WordWrap
-				onTextChanged: {
-					if (transcript.height > flickable.height) {
-						flickable.contentY = transcript.height - flickable.height
-					}
-				}
 			}
 		}
 
