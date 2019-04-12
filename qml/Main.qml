@@ -61,7 +61,7 @@ Page {
 		}
 
 		Label {
-			id: prompt
+			id: promptLbl
 			anchors {
 				top: header.bottom
 				topMargin: margin
@@ -74,7 +74,7 @@ Page {
 		TextField {
 			id: questionField
 			anchors {
-				top: prompt.bottom
+				top: promptLbl.bottom
 				topMargin: margin
 				leftMargin: margin
 				rightMargin: margin
@@ -95,7 +95,7 @@ Page {
 			width: parent.width - 2 * margin
 			text: i18n.tr('Ask question')
 			onClicked: {
-				transcript.append("Q: " + questionField.text + "\nA: " + getAnswer())
+				transcript.append("Q: " + questionField.text + "\nA: " + getAnswer() + "\n")
 				questionField.text = ""
 			}
 		}
@@ -113,13 +113,23 @@ Page {
 				bottom: clearButton.top
 				bottomMargin: margin
 			}
+			clip: true
+			contentHeight: transcript.paintedHeight
+			contentWidth: transcript.paintedWidth
 
 			TextArea {
 				id: transcript
 				readOnly: true
-				anchors.fill: parent
+				width: mainView.width - 2 * margin
+				height: Math.max(mainView.height - header.height - promptLbl.height - askButton.height - clearButton.height - 5 * margin, paintedHeight)
 				text: i18n.tr('Crystal Ball Transcript')
 				wrapMode: Text.WordWrap
+				onTextChanged: {
+					if (transcript.paintedHeight > flickable.height) {
+						flickable.contentY = transcript.paintedHeight - flickable.height
+						flickable.returnToBounds()
+					}
+				}
 			}
 		}
 
