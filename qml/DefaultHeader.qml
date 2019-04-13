@@ -19,13 +19,18 @@ PageHeader {
 	id: header
 	title: i18n.tr("Crystal Ball")
 
+	// Those little buttons in the header bar
 	trailingActionBar {
 		actions: [
 			Action {
+				// You can find all the available icons on your UT device at
+				// /usr/share/icons/suru/actions/scalable
 				iconName: "info"
+				// Only show this button if we're in the main view (i.e. only one page on the stack)
 				visible: pageViewer.depth === 1
 				text: i18n.tr("About Crystal Ball")
 
+				// When tapped, push the About page onto the stack
 				onTriggered: pageViewer.push(pageViewer.aboutPage)
 			}
 		]

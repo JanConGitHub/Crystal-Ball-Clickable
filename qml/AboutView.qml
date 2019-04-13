@@ -20,8 +20,11 @@ Page {
 	id: aboutPage
 	header: DefaultHeader {}
 
+	// Not strictly necessary because there isn't a lot of content on this page,
+	// but if new information is added, a scroll view will allow the user to scroll through it all
 	ScrollView {
 		id: scroll
+		// anchor the content relative to the rest of the page
 		anchors {
 			top: header.bottom
 			topMargin: margin
@@ -34,8 +37,10 @@ Page {
 
 		Column {
 			width: scroll.width
+			// "margin" is declared in Root.qml
 			spacing: margin
 
+			// Use the filename to use components defined in other files
 			WrappingLabel {
 				text: "Crystal Ball - " +i18n.tr("written by Arc676/Alessandro Vinciguerra. Project available under") + " GPLv3. Copyright 2018-9 Arc676/Alessandro Vinciguerra <alesvinciguerra@gmail.com>"
 			}

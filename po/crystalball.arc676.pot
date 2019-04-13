@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crystalball.arc676\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-12 07:12+0000\n"
+"POT-Creation-Date: 2019-04-13 10:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,18 +17,18 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/AboutView.qml:40
+#: ../qml/AboutView.qml:45
 msgid "written by Arc676/Alessandro Vinciguerra. Project available under"
 msgstr ""
 
-#: ../qml/AboutView.qml:44
+#: ../qml/AboutView.qml:49
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
 "Software Foundation (version 3)."
 msgstr ""
 
-#: ../qml/AboutView.qml:48
+#: ../qml/AboutView.qml:53
 msgid ""
 "This program is distributed in the hope that it will be useful, but WITHOUT "
 "ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
@@ -36,91 +36,91 @@ msgid ""
 "more details."
 msgstr ""
 
-#: ../qml/AboutView.qml:52
+#: ../qml/AboutView.qml:57
 msgid ""
 "For the full license text, visit the <a href='https://github.com/Arc676/"
 "Crystal-Ball-Clickable'>repository</a> or the <a href='http://www.gnu.org/"
 "licenses/'>GNU licenses page</a>"
 msgstr ""
 
-#: ../qml/AboutView.qml:56
+#: ../qml/AboutView.qml:61
 msgid "%1 assets"
 msgstr ""
 
-#: ../qml/AboutView.qml:61
+#: ../qml/AboutView.qml:66
 msgid ""
 "Application icon by <a href='http://www.freepik.com'>Freepik</a> from <a "
 "href='http://www.flaticon.com'>flaticon.com</a>"
 msgstr ""
 
-#: ../qml/DefaultHeader.qml:20 ../qml/Main.qml:60 crystalball.desktop.in.h:1
+#: ../qml/DefaultHeader.qml:20 crystalball.desktop.in.h:1
 msgid "Crystal Ball"
 msgstr ""
 
-#: ../qml/DefaultHeader.qml:27
+#: ../qml/DefaultHeader.qml:31
 msgid "About Crystal Ball"
 msgstr ""
 
-#: ../qml/Main.qml:29
+#: ../qml/Main.qml:30
 msgid "Yes"
 msgstr ""
 
-#: ../qml/Main.qml:31
+#: ../qml/Main.qml:32
 msgid "No"
 msgstr ""
 
-#: ../qml/Main.qml:33
+#: ../qml/Main.qml:34
 msgid "Maybe"
 msgstr ""
 
-#: ../qml/Main.qml:35
+#: ../qml/Main.qml:36
 msgid "Try asking again later"
 msgstr ""
 
-#: ../qml/Main.qml:37
+#: ../qml/Main.qml:38
 msgid "Definitely"
 msgstr ""
 
-#: ../qml/Main.qml:39
+#: ../qml/Main.qml:40
 msgid "Of course not"
 msgstr ""
 
-#: ../qml/Main.qml:41
+#: ../qml/Main.qml:42
 msgid "Sure"
 msgstr ""
 
-#: ../qml/Main.qml:43
+#: ../qml/Main.qml:44
 msgid "Nope"
 msgstr ""
 
-#: ../qml/Main.qml:45
+#: ../qml/Main.qml:46
 msgid "Why not?"
 msgstr ""
 
-#: ../qml/Main.qml:47
+#: ../qml/Main.qml:48
 msgid "I wouldn't bet on it"
 msgstr ""
 
-#: ../qml/Main.qml:49
+#: ../qml/Main.qml:50
 msgid "You bet!"
 msgstr ""
 
-#: ../qml/Main.qml:51
+#: ../qml/Main.qml:52
 msgid "Don't hold your breath"
 msgstr ""
 
-#: ../qml/Main.qml:71
+#: ../qml/Main.qml:64
 msgid "Enter yes/no question"
 msgstr ""
 
-#: ../qml/Main.qml:96
+#: ../qml/Main.qml:89
 msgid "Ask question"
 msgstr ""
 
-#: ../qml/Main.qml:125 ../qml/Main.qml:148
+#: ../qml/Main.qml:124 ../qml/Main.qml:150
 msgid "Crystal Ball Transcript"
 msgstr ""
 
-#: ../qml/Main.qml:146
+#: ../qml/Main.qml:148
 msgid "Clear Transcript"
 msgstr ""

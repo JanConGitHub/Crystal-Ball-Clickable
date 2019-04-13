@@ -16,6 +16,7 @@ import QtQuick 2.4
 import QtQuick.Layouts 1.1
 import Ubuntu.Components 1.3
 
+// The main view; it just loads the other pages
 MainView {
 	id: root
 	objectName: 'mainView'
@@ -24,12 +25,15 @@ MainView {
 
 	width: units.gu(45)
 	height: units.gu(75)
+
+	// This property is accessible in the other components too
 	property real margin: units.gu(2)
 
 	PageStack {
 		id: pageViewer
 		anchors.fill: parent
 
+		// Keep references to the other views
 		property Main mainPage: Main {
 			visible: false
 		}
@@ -38,6 +42,7 @@ MainView {
 			visible: false
 		}
 
+		// On application start, clear the stack and put the main view on it
 		Component.onCompleted: {
 			pageViewer.clear()
 			pageViewer.push(mainPage)

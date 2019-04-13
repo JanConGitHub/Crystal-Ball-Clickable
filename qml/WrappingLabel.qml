@@ -22,6 +22,7 @@ Label {
 		right: parent.right
 		rightMargin: margin
 	}
+	// Wrap text that's too long and allow the user to tap on links to open them
 	wrapMode: Text.WrapAtWordBoundaryOrAnywhere
 	onLinkActivated: Qt.openUrlExternally(link)
 }
