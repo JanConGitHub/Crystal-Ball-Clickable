@@ -1,0 +1,139 @@
+# Spanish translation for Crystal ball V1.0
+# Copyright (C) 2019 Arc676/Alessandro Vinciguerra
+# This file is distributed under the same license as the crystalball.arc676 package.
+# Josu <josugg86@hotmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: crystalball.arc676\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-13 10:08+0000\n"
+"PO-Revision-Date: 2019-04-13 18:10+0200\n"
+"Language-Team: Ubports Spanish Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Josu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: ../qml/AboutView.qml:45
+msgid "written by Arc676/Alessandro Vinciguerra. Project available under"
+msgstr "Escrita por Arc676/Alessandro Vinciguerra. Proyecto disponible bajo"
+
+#: ../qml/AboutView.qml:49
+msgid ""
+"This program is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation (version 3)."
+msgstr ""
+"Este programa es software libre: Puede redistribuirlo y/o modificarlo bajo "
+"los términos de la licencia GNU General Public como está publicado por la "
+"Free Software foundation (versión 3)."
+
+#: ../qml/AboutView.qml:53
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details."
+msgstr ""
+"Este programa está distribuido con la esperanza de que sea util pero SIN "
+"NINGUNA GARANTÍA; ni si quiera la garantía de poder mercantilizar o para "
+"usar con algún fin en particular. Vea la licencia GNU General Public para "
+"mas detalles."
+
+#: ../qml/AboutView.qml:57
+msgid ""
+"For the full license text, visit the <a href='https://github.com/Arc676/"
+"Crystal-Ball-Clickable'>repository</a> or the <a href='http://www.gnu.org/"
+"licenses/'>GNU licenses page</a>"
+msgstr ""
+"Para leer completamente la licencia visite <a href='https://github.com/"
+"Arc676/Crystal-Ball-Clickable'>repositorio</a> o visite <a href='http://www."
+"gnu.org/licenses/'>Página de licencias GNU </a>"
+
+#: ../qml/AboutView.qml:61
+msgid "%1 assets"
+msgstr "Medios %1"
+
+#: ../qml/AboutView.qml:66
+msgid ""
+"Application icon by <a href='http://www.freepik.com'>Freepik</a> from <a "
+"href='http://www.flaticon.com'>flaticon.com</a>"
+msgstr ""
+"Iconos de la aplicación por <a href='http://www.freepik.com'>Freepik</a> de "
+"<a href='http://www.flaticon.com'>flaticon.com</a>"
+
+#: ../qml/DefaultHeader.qml:20 crystalball.desktop.in.h:1
+msgid "Crystal Ball"
+msgstr "Crystal Ball"
+
+#: ../qml/DefaultHeader.qml:31
+msgid "About Crystal Ball"
+msgstr "Acerca de Crystal Ball"
+
+#: ../qml/Main.qml:30
+msgid "Yes"
+msgstr "Si"
+
+#: ../qml/Main.qml:32
+msgid "No"
+msgstr "No"
+
+#: ../qml/Main.qml:34
+msgid "Maybe"
+msgstr "Puede"
+
+#: ../qml/Main.qml:36
+msgid "Try asking again later"
+msgstr "Prueba a preguntar mas tarde"
+
+#: ../qml/Main.qml:38
+msgid "Definitely"
+msgstr "Definitivamente"
+
+#: ../qml/Main.qml:40
+msgid "Of course not"
+msgstr "Por supuesto que no"
+
+#: ../qml/Main.qml:42
+msgid "Sure"
+msgstr "Seguro"
+
+#: ../qml/Main.qml:44
+msgid "Nope"
+msgstr "Nop"
+
+#: ../qml/Main.qml:46
+msgid "Why not?"
+msgstr "¿Por qué no?"
+
+#: ../qml/Main.qml:48
+msgid "I wouldn't bet on it"
+msgstr "No cuentes con ello"
+
+#: ../qml/Main.qml:50
+msgid "You bet!"
+msgstr "¡Puedes a postar a que sí!"
+
+#: ../qml/Main.qml:52
+msgid "Don't hold your breath"
+msgstr "No aguantes la respiración"
+
+#: ../qml/Main.qml:64
+msgid "Enter yes/no question"
+msgstr "Introduce la pregunta de Si o no"
+
+#: ../qml/Main.qml:89
+msgid "Ask question"
+msgstr "Pregunta"
+
+#: ../qml/Main.qml:124 ../qml/Main.qml:150
+msgid "Crystal Ball Transcript"
+msgstr "Transcripción de Crystal Ball"
+
+#: ../qml/Main.qml:148
+msgid "Clear Transcript"
+msgstr "Limpiar transcripción"
