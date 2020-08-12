@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crystalball.arc676\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 10:08+0000\n"
+"POT-Creation-Date: 2020-08-12 09:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,50 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../qml/AboutView.qml:45
-msgid "written by Arc676/Alessandro Vinciguerra. Project available under"
-msgstr ""
-
-#: ../qml/AboutView.qml:49
-msgid ""
-"This program is free software: you can redistribute it and/or modify it "
-"under the terms of the GNU General Public License as published by the Free "
-"Software Foundation (version 3)."
-msgstr ""
-
-#: ../qml/AboutView.qml:53
-msgid ""
-"This program is distributed in the hope that it will be useful, but WITHOUT "
-"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
-"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
-"more details."
-msgstr ""
-
-#: ../qml/AboutView.qml:57
-msgid ""
-"For the full license text, visit the <a href='https://github.com/Arc676/"
-"Crystal-Ball-Clickable'>repository</a> or the <a href='http://www.gnu.org/"
-"licenses/'>GNU licenses page</a>"
-msgstr ""
-
-#: ../qml/AboutView.qml:61
-msgid "%1 assets"
-msgstr ""
-
-#: ../qml/AboutView.qml:66
-msgid ""
-"Application icon by <a href='http://www.freepik.com'>Freepik</a> from <a "
-"href='http://www.flaticon.com'>flaticon.com</a>"
-msgstr ""
-
-#: ../qml/DefaultHeader.qml:20 crystalball.desktop.in.h:1
-msgid "Crystal Ball"
-msgstr ""
-
-#: ../qml/DefaultHeader.qml:31
-msgid "About Crystal Ball"
-msgstr ""
 
 #: ../qml/Main.qml:30
 msgid "Yes"
@@ -123,4 +79,48 @@ msgstr ""
 
 #: ../qml/Main.qml:148
 msgid "Clear Transcript"
+msgstr ""
+
+#: ../qml/AboutView.qml:45
+msgid "written by Arc676/Alessandro Vinciguerra. Project available under"
+msgstr ""
+
+#: ../qml/AboutView.qml:49
+msgid ""
+"This program is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation (version 3)."
+msgstr ""
+
+#: ../qml/AboutView.qml:53
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details."
+msgstr ""
+
+#: ../qml/AboutView.qml:57
+msgid ""
+"For the full license text, visit the <a href='https://github.com/Arc676/"
+"Crystal-Ball-Clickable'>repository</a> or the <a href='http://www.gnu.org/"
+"licenses/'>GNU licenses page</a>"
+msgstr ""
+
+#: ../qml/AboutView.qml:61
+msgid "%1 assets"
+msgstr ""
+
+#: ../qml/AboutView.qml:66
+msgid ""
+"Application icon by <a href='http://www.freepik.com'>Freepik</a> from <a "
+"href='http://www.flaticon.com'>flaticon.com</a>"
+msgstr ""
+
+#: ../qml/DefaultHeader.qml:20 crystalball.desktop.in.h:1
+msgid "Crystal Ball"
+msgstr ""
+
+#: ../qml/DefaultHeader.qml:31
+msgid "About Crystal Ball"
 msgstr ""
