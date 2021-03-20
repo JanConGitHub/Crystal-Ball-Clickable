@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the crystalball.arc676 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: crystalball.arc676\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-12 09:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: NORWEGIAN <LL@li.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:30
+msgid "Yes"
+msgstr "Ja"
+
+#: ../qml/Main.qml:32
+msgid "No"
+msgstr "Nei"
+
+#: ../qml/Main.qml:34
+msgid "Maybe"
+msgstr "Kanskje"
+
+#: ../qml/Main.qml:36
+msgid "Try asking again later"
+msgstr "Prøv å spørre igjen senere"
+
+#: ../qml/Main.qml:38
+msgid "Definitely"
+msgstr "Helt sikkert"
+
+#: ../qml/Main.qml:40
+msgid "Of course not"
+msgstr "Selvfølgelig ikke"
+
+#: ../qml/Main.qml:42
+msgid "Sure"
+msgstr "Sikkert"
+
+#: ../qml/Main.qml:44
+msgid "Nope"
+msgstr "Nei"
+
+#: ../qml/Main.qml:46
+msgid "Why not?"
+msgstr "Hvorfor ikke?"
+
+#: ../qml/Main.qml:48
+msgid "I wouldn't bet on it"
+msgstr "Jeg ville ikke satse på det"
+
+#: ../qml/Main.qml:50
+msgid "You bet!"
+msgstr "Det kan du vedde på!"
+
+#: ../qml/Main.qml:52
+msgid "Don't hold your breath"
+msgstr "Ikke hold pusten"
+
+#: ../qml/Main.qml:64
+msgid "Enter yes/no question"
+msgstr "Skriv inn et ja/nei spørsmål"
+
+#: ../qml/Main.qml:89
+msgid "Ask question"
+msgstr "Still spørsmål"
+
+#: ../qml/Main.qml:124 ../qml/Main.qml:150
+msgid "Crystal Ball Transcript"
+msgstr "Krystallkuletranskript"
+
+#: ../qml/Main.qml:148
+msgid "Clear Transcript"
+msgstr "Tøm transkript"
+
+#: ../qml/AboutView.qml:45
+msgid "written by Arc676/Alessandro Vinciguerra. Project available under"
+msgstr "skrevet av Arc676/Alessandro Vinciguerra. Prosjekt tilgjengelig under"
+
+#: ../qml/AboutView.qml:49
+msgid ""
+"This program is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation (version 3)."
+msgstr ""
+"Dette programmet er gratis programvare: Du kan distribuere det og/eller endre det "
+"under vilkårene i GNU General Public License som publisert av Free "
+"Software Foundation (versjon 3)."
+
+#: ../qml/AboutView.qml:53
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details."
+msgstr ""
+"Dette programmet distribueres i håp om at det vil være nyttig, men UTEN "
+"NOEN GARANTI; uten engang den underforståtte garantien for SALGSBARHET eller "
+"EGNETHET FOR ET BESTEMT FORMÅL. Se GNU General Public License for "
+"mer informasjon."
+
+#: ../qml/AboutView.qml:57
+msgid ""
+"For the full license text, visit the <a href='https://github.com/Arc676/"
+"Crystal-Ball-Clickable'>repository</a> or the <a href='http://www.gnu.org/"
+"licenses/'>GNU licenses page</a>"
+msgstr ""
+"For fullstendig lisenstekst, besøk <a href = 'https: //github.com/Arc676/"
+"Crystal-Ball-Clickable '> repository </a> eller <a href =' http: //www.gnu.org/"
+"lisenser/'>GNU-lisensersiden </a>"
+
+#: ../qml/AboutView.qml:61
+msgid "%1 assets"
+msgstr "%1 aktiva"
+
+#: ../qml/AboutView.qml:66
+msgid ""
+"Application icon by <a href='http://www.freepik.com'>Freepik</a> from <a "
+"href='http://www.flaticon.com'>flaticon.com</a>"
+msgstr ""
+"Søknadsikon av <a href='http://www.freepik.com'>Freepik</a> fra <a "
+"href='http: //www.flaticon.com'>flaticon.com</a>"
+
+#: ../qml/DefaultHeader.qml:20 crystalball.desktop.in.h:1
+msgid "Crystal Ball"
+msgstr "Krystallkule"
+
+#: ../qml/DefaultHeader.qml:31
+msgid "About Crystal Ball"
+msgstr "Om Krystallkulen"
